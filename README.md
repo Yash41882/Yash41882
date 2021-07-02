@@ -6,7 +6,7 @@
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Development</code></li>
 <li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Bootstrap</code>, <code>C</code></li>, <code>PHP</code>, <code>JavaScipt</code>, <code>SQL</code> , <code>C++</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="mailto:yashsharma41882@gmail.com">deepanshugupta598@gmail@gmail.com</a></code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="mailto:yashsharma41882@gmail.com">yashsharma41882@gmail@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
 <li> ⚡ Fun fact about me: I love graphic designing and playing games</li></ul>
 
