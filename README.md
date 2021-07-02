@@ -1,17 +1,14 @@
- # Hi there 🤗 
+ # Hi there! 
 
 
-<p><i> I'm Deepanshu a 2st year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Yash Sharma a B.Tech. CSE student at Manav Rachna International Institute of Research and Studies. I'm a Tech Enthusiast. I love to explore and learn about new domains.</i></p>
 
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>MEAN development</code></li>
-<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Open Source</code>, <code>C</code></li>, <code>Java</code>, <code>JavaScipt</code>, <code>Nodejs</code> , <code>C++</code></li>
+<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Development</code></li>
+<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Bootstrap</code>, <code>C</code></li>, <code>PHP</code>, <code>JavaScipt</code>, <code>SQL</code> , <code>C++</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="mailto:deepanshugupta598@gmail.com">deepanshugupta598@gmail@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
-<li> ⚡ Fun fact about me: I love sketching and playing games and watching horror movies👻</li></ul>
-
-![Followers](https://img.shields.io/github/followers/Deepanshu-Gupta-112?style=plastic&color=white=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Deepanshu-Gupta-112?affiliations=OWNER&style=social)
+<li> ⚡ Fun fact about me: I love graphic designing and playing games</li></ul>
 
 
 <h3>Languages and Tools</h3>
@@ -28,11 +25,11 @@
 <h2 align="center">Git Hub Stats</h2>
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Gupta-112&layout=compact&show_icons=true&theme=radical)](https://github.com/Deepanshu-Gupta-112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash41882&layout=compact&show_icons=true&theme=radical)](https://github.com/Yash41882/github-readme-stats)
 
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Gupta-112&show_icons=true&theme=radical)](https://github.com/Deepanshu-Gupta-112/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash41882&show_icons=true&theme=radical)](https://github.com/Yash41882/github-readme-stats)
 
 
 <!---
