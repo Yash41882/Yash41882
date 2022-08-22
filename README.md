@@ -37,7 +37,7 @@
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Yash41882?theme=light&font=Karma&ext=contest" />
-[(https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<yash41882>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+<img height="273em" src"https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=yash41882" />
 
 </p>
 <!---
