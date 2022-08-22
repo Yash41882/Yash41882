@@ -1,4 +1,4 @@
- # Hi there! 
+ # Hi There! 
 
 
 <p><i> I'm Yash Sharma a B.Tech. CSE student at Manav Rachna International Institute of Research and Studies. I'm a Tech Enthusiast. I love to explore and learn about new domains.</i></p>
@@ -26,6 +26,10 @@
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash41882&layout=compact&show_icons=true&theme=radical)](https://github.com/Yash41882/github-readme-stats)
+
+<h3><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Competitive Programming</h3>
+
+<img height="273em" src="https://camo.githubusercontent.com/3086bad6a05044de18b876a465fe5785dc348dba4ec1924395d57176c5a6aaae/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f7375646970746f62323f7468656d653d6c6967687426666f6e743d4b61726d61266578743d636f6e74657374" data-canonical-src="https://leetcard.jacoblin.cool/Yash41882?theme=light&font=Noto%20Sans%20Syriac&ext=contest" style="max-width: 100%;">
 
 </p>
 
