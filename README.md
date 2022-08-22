@@ -36,8 +36,8 @@
 </center
 
 <p >
-<img float="left" height="273em" src="https://leetcard.jacoblin.cool/Yash41882?theme=light&font=Karma&ext=contest" />
-<img float="right" height="273em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=yash41882" />
+<img  height="273em" src="https://leetcard.jacoblin.cool/Yash41882?theme=light&font=Karma&ext=contest" />
+<img  height="273em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=yash41882" />
 
 </p>
 <!---
