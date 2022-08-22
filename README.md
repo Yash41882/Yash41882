@@ -4,8 +4,8 @@
 <p><i> I'm Yash Sharma a B.Tech. CSE student at Manav Rachna International Institute of Research and Studies. I'm a Tech Enthusiast. I love to explore and learn about new domains.</i></p>
 
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Development</code></li>
-<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Bootstrap</code>, <code>C</code></li>, <code>PHP</code>, <code>JavaScipt</code>, <code>SQL</code> , <code>C++</code></li>
+<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Algorithms</code>, <code>Full Stack Development</code></li>, <code>Data Analysis</code>
+<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Bootstrap</code>, <code>C</code></li>, <code>PHP</code>, <code>JavaScipt</code>, <code>SQL</code> , <code>C++</code></li>, <code> Numpy</code>, <code>Pandas</code>
 <li> 📫 <b>Reach me @</b> : <code><a href="mailto:yashsharma41882@gmail.com">yashsharma41882@gmail@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
 <li> ⚡ Fun fact about me: I love graphic designing and playing games</li></ul>
