@@ -35,9 +35,9 @@
 <h2 align='center'><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Competitive Programming</h2>
 </center
 
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/Yash41882?theme=light&font=Karma&ext=contest" />
-"https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=yash41882"
+<p >
+<img float="left" height="273em" src="https://leetcard.jacoblin.cool/Yash41882?theme=light&font=Karma&ext=contest" />
+<img float="right" height="273em" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=yash41882" />
 
 </p>
 <!---
